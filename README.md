@@ -19,4 +19,3 @@ npm start
 ```
 
 This command will bundle the project code and start a production server at [http://localhost:3000/](http://localhost:3000/). Congratulations, you are good to go!
-
