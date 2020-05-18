@@ -3,7 +3,7 @@ import Cube from './Cube/Cube.js';
 import Arm from './Arm/Arm.js';
 
 
-export default class SeedScene extends Group {
+export default class Gizmo extends Group {
   constructor(scene , camera , renderer) {
     super();
 
