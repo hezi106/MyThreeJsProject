@@ -1,5 +1,5 @@
 import { WebGLRenderer, PerspectiveCamera, Scene , GridHelper } from 'three';
-import SeedScene from './objects/Gizmo.js';
+import Gizmo from './objects/Gizmo.js';
 import {GREY} from './constants'
 
 const scene = new Scene();
